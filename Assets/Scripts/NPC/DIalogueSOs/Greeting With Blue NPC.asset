@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84e305c23186f248a332fc8193663d4, type: 3}
+  m_Name: Greeting With Blue NPC
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 1e9f380f226d57a4999503fd62563a4a, type: 2}
+    text: 'hi player
+
+'
+  - speaker: {fileID: 11400000, guid: ed060f00826d3eb42b907ea2d558e7ae, type: 2}
+    text: 'hi Blue NPC
+
+'
+  options:
+  - optionText: tell me more
+    nextDialogue: {fileID: 11400000, guid: 9459dc17118212b429da44c3d08a352e, type: 2}
+  - optionText: tell me nothing
+    nextDialogue: {fileID: 11400000, guid: 33d26655a88806749b535d97952e44f9, type: 2}

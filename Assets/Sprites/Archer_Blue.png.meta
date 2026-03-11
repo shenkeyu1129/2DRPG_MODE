@@ -1,0 +1,1935 @@
+fileFormatVersion: 2
+guid: 4a036c6f5e6712b4b930313e840e2790
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archer_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213eb9564908704e8d8aad6af331fdc
+      internalID: 45817404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1176
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dac34a879477543ac4e87d20c4868b
+      internalID: -92970010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1176
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10e712baf8ba514b82666c02dc01980
+      internalID: -363412588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1176
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db454ac065d693f409e9aa9fd1ba51b4
+      internalID: -761452950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1176
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db2fbacc11c7545b18a5c9cc001d5b
+      internalID: 412778358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1176
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0cf341ed9064e40b0049f5f626e58c
+      internalID: -1317699718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3676881c99d13b4a88266e7e271c5ba
+      internalID: -912859141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 985
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0629a1c985439a4d83a4d7b622625df
+      internalID: 1306618300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 985
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9718034013ed43bc262c9612088f2
+      internalID: -70949631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 985
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa2a106bd9b70e4ca5bc16d79b841c0
+      internalID: -1905909034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 985
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71be6d0e18f8544831d746a927be2e
+      internalID: 1886939231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 985
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe92827e02f2a4b8f276bc4e72ece6
+      internalID: 1280649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b297e87967612a4d9f4a42b0777335a
+      internalID: -614970415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867cb06bb8c8f649825f765fdacdf73
+      internalID: -341008825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd1b7833fb799c4894afc185cdb7d4e
+      internalID: -1481365827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e81b1dd48cfa48a15e938c397a283
+      internalID: 1106665807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a523f1b2b43b444ba535d2e7814f76
+      internalID: 1968679167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c5a2998fbd0d348af974fef512b128
+      internalID: -219412078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe02857f5ead1468847c1baf1f6fa5
+      internalID: 1737826543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 790
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c2e1b0627bc249a579e49724a147b
+      internalID: -1463332103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae17bbecdfcb9a84e97fe85a42f0a784
+      internalID: -1031438963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 603
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18681c81a1afa7740ab0d298fbcc5c1b
+      internalID: -1599252048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2cbb4a56f67f42977ef2debed88c0
+      internalID: 1527445935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000cd6dda0baa1c48ae2048cae9b9973
+      internalID: -229480248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcac422533cb6c44ab05b47258bbf1f
+      internalID: 733695001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be2ad256a16df43be069ed485f807f
+      internalID: 1477597220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47466b26377cd48b62529863d5b5f6
+      internalID: -1053701680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 600
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dcc6f471fa70649b58e864b9efa7e9
+      internalID: 1163336902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31711c122fdbba4a9b9a066ec74fb8d
+      internalID: 813045103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623f16c0955eed48acd9597601ea9c3
+      internalID: 794148001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c100e3249512468bc62910fd7f480
+      internalID: 1932109113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0de39fbf0e0d43a2e7a1a48812976
+      internalID: -801920055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e8c65b7d68cb4b9d063c71cabebd7
+      internalID: 1582513123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2223d559345ce144b067898c5ffb621
+      internalID: 942839085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eff8a5d44daa04181cd13224df8ea9
+      internalID: 616613604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 407
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d77f5dd516e844084f042dadd72b63
+      internalID: 749927270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae08f4c97c89e54592aa4e39686961e
+      internalID: 474027106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5338f5598ef14e82aaddbc5700d88
+      internalID: 572194048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650578a8c9318d24b9aefb8c6271c4c9
+      internalID: -2078050528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424aaa15d6f22e43a9a56384a83be40
+      internalID: 1276384900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9deebaf56822904495ca7f30180ff60
+      internalID: 1858107865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4dd5c87885e624e9361a281291fdb3
+      internalID: -1705623052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6fc3f0eebc08b40aeb2958de78a91a
+      internalID: -411510596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 210
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7273f4db10fa3040824f22d4a97beb9
+      internalID: -2031130968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1039
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5869a50cc523fd84b8fbe2a7ba3d4d1b
+      internalID: 737212290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1036
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c945f86a8b026b41bf028c2c04e1242
+      internalID: -1513046349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1060
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c660ff7f44e28ae4082e76c15701ebb1
+      internalID: -1030932302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1071
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12387c17eaf4c3f4781d7a3ca92638db
+      internalID: 2034368492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1039
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb211fa5c711b47b86f69efbf1bb72
+      internalID: 214914441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1072
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012b48124714dbe46b5903cda7f8fac7
+      internalID: -1812264491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1063
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9b9471b99c1646aca9eb2a0b3f333
+      internalID: 1973027482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_51
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1080
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b45589b5293274c83994e78360d1ea
+      internalID: 724710540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c9292c8e01c443962058a3ac5b365
+      internalID: -1634363023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224dc347b081d5e41a22f47c59c6ca1a
+      internalID: -430218769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7175d81821d4d4c9ec253e6d85c059
+      internalID: -1534088806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2215e6cca94f49a25248c8fa71efd
+      internalID: -303952605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b27835a9c7a3c44089d1692d79750b6
+      internalID: -1104802069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2badb0fc520b346b2ee9a672a335a2
+      internalID: 1271112688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15345a5b7132f6942b4982d4bd6a8498
+      internalID: -2142229707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 15
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      physicsShape:
+      - - {x: 0, y: -84}
+        - {x: 96, y: 0}
+        - {x: 0, y: 84}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8411ce38b8149bc4697ae6d28abb9279
+      internalID: 1200947722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Archer_Blue_0: 45817404
+      Archer_Blue_1: -92970010
+      Archer_Blue_10: 1886939231
+      Archer_Blue_11: 1280649383
+      Archer_Blue_12: -614970415
+      Archer_Blue_13: -341008825
+      Archer_Blue_14: -1481365827
+      Archer_Blue_15: 1106665807
+      Archer_Blue_16: 1968679167
+      Archer_Blue_17: -219412078
+      Archer_Blue_18: 1737826543
+      Archer_Blue_19: -1463332103
+      Archer_Blue_2: -363412588
+      Archer_Blue_20: -1031438963
+      Archer_Blue_21: -1599252048
+      Archer_Blue_22: 1527445935
+      Archer_Blue_23: -229480248
+      Archer_Blue_24: 733695001
+      Archer_Blue_25: 1477597220
+      Archer_Blue_26: -1053701680
+      Archer_Blue_27: 1163336902
+      Archer_Blue_28: 813045103
+      Archer_Blue_29: 794148001
+      Archer_Blue_3: -761452950
+      Archer_Blue_30: 1932109113
+      Archer_Blue_31: -801920055
+      Archer_Blue_32: 1582513123
+      Archer_Blue_33: 942839085
+      Archer_Blue_34: 616613604
+      Archer_Blue_35: 749927270
+      Archer_Blue_36: 474027106
+      Archer_Blue_37: 572194048
+      Archer_Blue_38: -2078050528
+      Archer_Blue_39: 1276384900
+      Archer_Blue_4: 412778358
+      Archer_Blue_40: 1858107865
+      Archer_Blue_41: -1705623052
+      Archer_Blue_42: -411510596
+      Archer_Blue_43: -2031130968
+      Archer_Blue_44: 737212290
+      Archer_Blue_45: -1513046349
+      Archer_Blue_46: -1030932302
+      Archer_Blue_47: 2034368492
+      Archer_Blue_48: 214914441
+      Archer_Blue_49: -1812264491
+      Archer_Blue_5: -1317699718
+      Archer_Blue_50: 1973027482
+      Archer_Blue_51: 724710540
+      Archer_Blue_52: -1634363023
+      Archer_Blue_53: -430218769
+      Archer_Blue_54: -1534088806
+      Archer_Blue_55: -303952605
+      Archer_Blue_56: -1104802069
+      Archer_Blue_57: 1271112688
+      Archer_Blue_58: -2142229707
+      Archer_Blue_59: 1200947722
+      Archer_Blue_6: -912859141
+      Archer_Blue_7: 1306618300
+      Archer_Blue_8: -70949631
+      Archer_Blue_9: -1905909034
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

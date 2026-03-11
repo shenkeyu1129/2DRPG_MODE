@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84e305c23186f248a332fc8193663d4, type: 3}
+  m_Name: Greeting With Purple NPC
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: e74d6dc3d7936dc409ad289917fc5e41, type: 2}
+    text: Hi player
+  - speaker: {fileID: 11400000, guid: ed060f00826d3eb42b907ea2d558e7ae, type: 2}
+    text: Hi ,Purple NPC!
+  options:
+  - optionText: tell me more
+    nextDialogue: {fileID: 11400000, guid: dde84280ad1ac0247aad82e138091c36, type: 2}
+  - optionText: tell me nothing
+    nextDialogue: {fileID: 11400000, guid: ecd0bfadcf7e210498e11bc1392a8780, type: 2}
